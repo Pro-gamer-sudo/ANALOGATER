@@ -1,0 +1,1546 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : analogater_after_clg_arun.brd                 )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Tue Mar 25 13:31:54 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < verify_sst >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/verify_sst.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 3964.86).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 548.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 981.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1368.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1801.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (636.60 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (616.60 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (538.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (740.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (540.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (933.40 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (913.40 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (971.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 2933.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 3366.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (940.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 573.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 1006.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1203.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1140.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1518.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1660.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (1860.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1636.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1638.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2060.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1951.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2128.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2071.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2260.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 1788.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 2221.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2445.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2558.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2561.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2706.60 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2693.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2668.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2645.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2991.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3003.40 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3045.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2845.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 403.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 836.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3126.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3101.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3485.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3383.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3685.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3885.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 526.60).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 723.40).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3816.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 1653.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 2086.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3673.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4085.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4026.60 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3923.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4106.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4095.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4223.40 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4356.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4241.60 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4418.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4323.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4295.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4538.40 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (4695.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4495.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4943.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 1763.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 2196.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4851.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4756.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5046.60 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5243.40 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5096.60 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5063.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5376.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5393.40 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5496.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 3964.86).
+    WARNING: rectangle or unfilled shape composed 0 width line found at (5855.51 4164.86) in MIL
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.15800                                  DARK 
+  CIRCLE     0.16100                                  DARK 
+  OBLONG     0.13780     x 0.15748       0.000 NO     DARK 
+  OBLONG     0.14080     x 0.16048       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 270.000 NO     DARK 
+
+     verify_sst created with warnings
+
+
+================================================================
+     PROCESSING FILM < PLACEMENT_TOP >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/PLACEMENT_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer VIA KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 3964.86).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 548.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 981.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1368.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1801.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (636.60 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (616.60 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (538.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (740.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (540.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (933.40 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (913.40 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (971.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 2933.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 3366.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (940.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 573.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 1006.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1203.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1140.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1518.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1660.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (1860.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1636.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1638.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2060.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1951.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2128.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2071.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2260.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 1788.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 2221.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2445.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2558.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2561.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2706.60 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2693.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2668.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2645.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2991.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3003.40 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3045.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2845.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 403.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 836.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3126.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3101.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3485.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3383.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3685.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3885.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 526.60).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 723.40).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3816.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 1653.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 2086.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3673.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4085.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4026.60 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3923.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4106.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4095.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4223.40 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4356.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4241.60 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4418.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4323.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4295.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4538.40 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (4695.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4495.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4943.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 1763.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 2196.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4851.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4756.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5046.60 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5243.40 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5096.60 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5063.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5376.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5393.40 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5496.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 3964.86).
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.15800                                  DARK 
+  CIRCLE     0.16100                                  DARK 
+  OBLONG     0.13780     x 0.15748       0.000 NO     DARK 
+  OBLONG     0.14080     x 0.16048       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 270.000 NO     DARK 
+
+     PLACEMENT_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PLACEMENT >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/PLACEMENT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 3964.86).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 3964.86).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 548.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 548.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 981.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 981.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1368.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1368.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1801.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1801.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (636.60 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (636.60 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (616.60 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (616.60 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (538.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (538.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (740.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (740.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (540.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (540.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (933.40 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (933.40 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (913.40 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (913.40 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (971.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (971.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 2933.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 2933.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 3366.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 3366.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (940.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (940.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 573.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 573.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 1006.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 1006.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1203.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1203.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1140.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1140.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1518.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1518.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1660.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1660.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (1860.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (1860.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1636.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1636.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1638.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1638.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2060.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2060.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1951.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1951.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2128.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2128.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2071.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2071.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2260.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2260.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 1788.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 1788.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 2221.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 2221.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2445.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2445.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2558.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2558.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2561.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2561.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2706.60 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2706.60 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2693.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2693.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2668.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2668.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2645.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2645.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2991.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2991.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3003.40 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3003.40 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3045.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3045.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2845.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2845.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 403.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 403.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 836.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 836.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3126.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3126.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3101.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3101.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3485.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3485.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3383.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3383.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3685.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3685.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3885.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3885.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 526.60).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 526.60).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 723.40).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 723.40).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3816.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3816.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 1653.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 1653.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 2086.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 2086.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3673.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3673.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4085.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4085.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4026.60 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4026.60 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3923.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3923.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4106.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4106.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4095.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4095.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4223.40 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4223.40 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4356.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4356.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4241.60 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4241.60 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4418.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4418.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4323.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4323.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4295.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4295.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4538.40 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4538.40 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (4695.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (4695.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4495.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4495.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4943.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4943.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 1763.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 1763.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 2196.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 2196.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4851.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4851.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4756.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4756.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5046.60 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5046.60 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5243.40 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5243.40 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5096.60 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5096.60 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5063.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5063.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5376.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5376.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5393.40 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5393.40 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5496.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5496.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 3964.86).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 3964.86).
+    WARNING: 0 width line found at (0.00 4005.12) in MIL
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text composed 0 width line found at (740.00 -590.00) in MIL
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.15800                                  DARK 
+  CIRCLE     0.16100                                  DARK 
+  OBLONG     0.13780     x 0.15748       0.000 NO     DARK 
+  OBLONG     0.14080     x 0.16048       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 270.000 NO     DARK 
+
+     PLACEMENT created with warnings
+
+
+================================================================
+     PROCESSING FILM < PLACEMENT_BOTTOM >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/PLACEMENT_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer VIA KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer VIA KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer VIA KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (200.00 3964.86).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 548.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (310.00 981.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1368.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (330.00 1801.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (240.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (636.60 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (618.70 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (616.60 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (608.70 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (538.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (628.70 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 2938.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (540.00 3371.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (740.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (540.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (933.40 550.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 785.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 885.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 985.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (931.30 1085.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (913.40 1345.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1595.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1795.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (921.30 1895.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (971.50 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2440.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2540.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2640.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (941.30 2740.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 2933.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (945.00 3366.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (940.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 573.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1265.00 1006.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1203.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1140.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1518.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1563.70 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (1660.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (1860.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1876.30 1245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1636.50 1680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1638.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (1708.70 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1598.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2060.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (1951.50 570.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2128.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2071.50 1960.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2210.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2310.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2410.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2021.30 2510.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3090.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3390.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2031.50 3690.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2260.00 160.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 1788.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2350.00 2221.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2445.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2558.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2561.50 855.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2693.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2706.60 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2693.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2718.70 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2668.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (2713.70 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2645.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (2991.50 565.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3006.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3003.40 1675.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3045.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (2845.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 403.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3275.00 836.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2155.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3126.50 1920.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2255.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2355.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3031.30 2455.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3101.50 2705.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 2925.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3025.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3026.30 3225.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (3485.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3383.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3685.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (3885.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 526.60).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3590.00 723.40).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3816.50 1190.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 1653.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3750.00 2086.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3673.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3678.70 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4085.00 150.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4026.60 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (3923.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4033.70 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4106.50 2695.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 2935.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3035.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3135.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (3991.30 3235.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4095.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4223.40 585.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4356.50 850.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1270.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4346.30 1370.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4241.60 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4243.70 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4418.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4323.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4295.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1870.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4538.40 1635.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 1970.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2070.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4556.30 2170.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM_REC at (4695.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1P5X3P5X4P0_MM at (4495.00 3780.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4943.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (4983.70 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 1763.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4900.00 2196.50).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4851.50 2680.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (4756.50 3125.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5046.60 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5243.40 820.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1280.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5296.30 1380.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5218.70 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5096.60 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5118.70 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5063.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5376.50 530.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1880.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 1980.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2080.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5531.30 2180.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5393.40 2670.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 2945.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3045.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3145.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_1POMM_2P4X1P80_MM at (5431.30 3245.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR_0P85X2P0X2P0_MM at (5496.50 3515.00).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 34.14).
+    WARNING: Null REGULAR-PAD specified for padstack MOUTING_HOLE at (5705.51 3964.86).
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.15800                                  DARK 
+  CIRCLE     0.16100                                  DARK 
+  OBLONG     0.13780     x 0.15748       0.000 NO     DARK 
+  OBLONG     0.14080     x 0.16048       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 270.000 NO     DARK 
+
+     PLACEMENT_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     FAB created.
+
+
+================================================================
+     PROCESSING FILM < ASSY_TOP >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/ASSY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+
+     ASSY_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.16100                                  DARK 
+  OBLONG     0.14080     x 0.16048       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 270.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.16100                                  DARK 
+  OBLONG     0.14080     x 0.16048       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4693.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,2725.0 270.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+
+     SILK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.15800                                  DARK 
+  OBLONG     0.13780     x 0.15748       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 270.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/PROGAMER/Desktop/analogater_after_clg_arun/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.15800                                  DARK 
+  OBLONG     0.13780     x 0.15748       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1969.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,4593.0 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,1667.0 270.000 NO     DARK 
+
+     TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        verify_sst created with warnings
+        PLACEMENT_TOP created with warnings
+        PLACEMENT created with warnings
+        PLACEMENT_BOTTOM created with warnings
+        FAB created.
+        ASSY_TOP created.
+        SOLDERMASK_BOTTOM created.
+        SOLDERMASK_TOP created.
+        SILK_TOP created.
+        BOTTOM created.
+        TOP created.
+
+ ARTWORK had warnings
