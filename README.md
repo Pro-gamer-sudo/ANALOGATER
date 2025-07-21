@@ -69,6 +69,8 @@ minimal error, closely matching simulated results.
 <img width="302" height="202" alt="image" src="https://github.com/user-attachments/assets/5eef3e72-655a-4285-8a31-9b522e4a39e8" />
 <img width="297" height="221" alt="image" src="https://github.com/user-attachments/assets/54dc3cf8-2b61-470f-a2f8-6e1b78de262d" />
 <img width="295" height="227" alt="image" src="https://github.com/user-attachments/assets/495cfa5c-0f39-44e5-bc60-e974f80d6f79" />
+<img width="295" height="227" alt="image" src="https://github.com/user-attachments/assets/841e44eb-c4ad-44a5-8e3e-f3da591718e0" />
+
 
 
 ## REFERENCES
